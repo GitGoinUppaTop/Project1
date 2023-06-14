@@ -1,1 +1,22 @@
+What is Next Level Contracting (NLC) and how does it relate to HCMS?
+NLC is the new contracting application that will replace SureLC in 2022. NLC will depend on data from HCMS including but not limited to contracting hierarchy, personal information, and compensation level.
 
+Are we going to stop using HCMS?
+No, we will continue to use HCMS more than ever. HCMS is the application where agent demographic, hierarchy, and compensation are defined. It is also where agents can invite new agents to be onboarded to Family First Life.
+
+How are requests created? Is the process same as in HCMS?
+New contract requests for NLC supported carriers (currently Americo) will be done in NLC. All NLC non-supported carriers will still be done in SureLC.
+Contract changes (hierarchy and compensation) will still be submitted through HCMS.
+
+What documents and information are required to submit a new contract request?
+During onboarding, NLC requires documents that include but is not limited to Errors and Omissions (E&O), Anti-Money Laundering (AML), and voided bank check. NLC will save these documents in your profile and use them for all future contract requests. 
+
+How do I sign documents that require my signature?
+We have developed a secure digital signature solution that applies your digital signature on required documents. You will define your digital signature during the onboarding process.
+
+Unable to create a contract request?
+There may be one or more issues with your profile that need to be corrected. The most likely issues are an expired license and expired AML training. Go to the issues page, review open issues then take the necessary action.
+
+How will I know if my contract request is approved by a carrier?
+The contract request status in NLC will be updated to “Carrier Approved” if approved and “Carrier Rejected” if the carrier rejects the request. This status will also be reflected in your HCMS profile.
+If your request was approved the carrier will assign a writing number that will be added to your profile and a notification will be visible in NLC.
